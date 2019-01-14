@@ -1,0 +1,11 @@
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\bin\Debug\netcoreapp2.0\pokegen2.deps.json
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\bin\Debug\netcoreapp2.0\pokegen2.runtimeconfig.json
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\bin\Debug\netcoreapp2.0\pokegen2.runtimeconfig.dev.json
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\bin\Debug\netcoreapp2.0\pokegen2.dll
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\obj\Debug\netcoreapp2.0\pokegen2.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\obj\Debug\netcoreapp2.0\pokegen2.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\obj\Debug\netcoreapp2.0\pokegen2.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\obj\Debug\netcoreapp2.0\pokegen2.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\bin\Debug\netcoreapp2.0\pokegen2.pdb
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\obj\Debug\netcoreapp2.0\pokegen2.dll
+C:\Users\Kenneth\source\repos\pokegen2\pokegen2\obj\Debug\netcoreapp2.0\pokegen2.pdb
